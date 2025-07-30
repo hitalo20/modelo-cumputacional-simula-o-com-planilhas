@@ -1,1 +1,1 @@
-# modelo-cumputacional-simula-o-com-planilhas
+# Modelo-Computacional-simula-o-com-planilhas
